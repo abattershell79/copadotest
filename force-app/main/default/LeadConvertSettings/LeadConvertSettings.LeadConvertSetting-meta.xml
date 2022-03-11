@@ -468,6 +468,10 @@
             <outputField>Twitter_Feed_Demo__c</outputField>
         </mappingFields>
         <mappingFields>
+            <inputField>Twitter_Handle__c</inputField>
+            <outputField>Twitter_Handle__c</outputField>
+        </mappingFields>
+        <mappingFields>
             <inputField>Twitter_Feed_Demo_Count__c</inputField>
             <outputField>Twitter_Feed_Demo_Count__c</outputField>
         </mappingFields>
@@ -478,10 +482,6 @@
         <mappingFields>
             <inputField>Twitter_Feed_Install_Count__c</inputField>
             <outputField>Twitter_Feed_Install_Count__c</outputField>
-        </mappingFields>
-        <mappingFields>
-            <inputField>Twitter_Handle__c</inputField>
-            <outputField>Twitter_Handle__c</outputField>
         </mappingFields>
         <mappingFields>
             <inputField>Video_Gallery_Demo__c</inputField>
@@ -540,16 +540,16 @@
             <outputField>GAUSERID__c</outputField>
         </mappingFields>
         <mappingFields>
+            <inputField>Lead_Source_Detail__c</inputField>
+            <outputField>Lead_Source_Detail__c</outputField>
+        </mappingFields>
+        <mappingFields>
             <inputField>Lead_Qualification_Status__c</inputField>
             <outputField>Lead_Qualification_Status__c</outputField>
         </mappingFields>
         <mappingFields>
             <inputField>Lead_Source__c</inputField>
             <outputField>Lead_Source__c</outputField>
-        </mappingFields>
-        <mappingFields>
-            <inputField>Lead_Source_Detail__c</inputField>
-            <outputField>Lead_Source_Detail__c</outputField>
         </mappingFields>
         <outputObject>Opportunity</outputObject>
     </objectMapping>
