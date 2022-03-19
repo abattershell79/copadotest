@@ -411,6 +411,10 @@
                     <name>relatedListApiName</name>
                     <value>copado__Environments__r</value>
                 </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>relatedListComponentOverride</name>
+                    <value>GRID</value>
+                </componentInstanceProperties>
                 <componentName>force:relatedListSingleContainer</componentName>
                 <identifier>force_relatedListSingleContainer3</identifier>
             </componentInstance>
